@@ -12,4 +12,4 @@ EXPOSE 80
 
 ENV PORT=80
 
-CMD["node", "server.js"]
+CMD ["node", "server.js"]
